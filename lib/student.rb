@@ -8,5 +8,5 @@ end
 
 def learn(context)
   @knowledge << context
-end 
+end
 end
